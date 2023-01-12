@@ -10,7 +10,7 @@ https://github.com/colaswap-io/aleo-hiveos-miner/releases/download/1tominer-v0.2
 https://ghproxy.com/https://github.com/colaswap-io/aleo-hiveos-miner/releases/download/1tominer-v0.2.2/aleo1tominer-0.2.2.tar.gz
 </br>
 ### [1tominer-v0.3.2]
-https://github.com/colaswap-io/aleo-hiveos-miner/releases/download/1tominer-0.3.2/aleo1tominer-v0.3.2.tar.gz
+https://github.com/colaswap-io/aleo-hiveos-miner/releases/download/1tominer-v0.3.2/aleo1tominer-0.3.2.tar.gz
 </br>
 大陆地区使用下面地址:</br>
 https://ghproxy.com/https://github.com/colaswap-io/aleo-hiveos-miner/releases/download/1tominer-v0.3.2/aleo1tominer-0.3.2.tar.gz
